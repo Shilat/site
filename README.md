@@ -1,1 +1,3 @@
 # site
+
+firebase deploy
