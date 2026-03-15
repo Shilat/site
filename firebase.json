@@ -4,7 +4,7 @@
     "redirects": [
       {
         "source": "/join",
-        "destination": "shilatgames://join",
+        "destination": "earlyfoundations://join",
         "type": 302
       }
     ],
